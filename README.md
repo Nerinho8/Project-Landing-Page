@@ -1,0 +1,1 @@
+With this project, I'll be able to practice my HTML/CSS skills by creating an entire web page. The web page design  idea is provided by The Odin Project.
